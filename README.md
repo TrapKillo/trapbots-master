@@ -18,3 +18,5 @@ npm install socks
 
 #Enjoy Bots
 If there is any good coder that want to code bots with me contact me on skype : xhuli.mile5
+
+TrapBots official website : TrapBots.tk
