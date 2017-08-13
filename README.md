@@ -20,3 +20,7 @@ npm install socks
 If there is any good coder that want to code bots with me contact me on skype : xhuli.mile5
 
 TrapBots official website : TrapBots.tk
+
+Still have problems ?
+Watch the tutorial on youtube :
+https://www.youtube.com/watch?v=iWsCU54vwhM
